@@ -1,0 +1,7 @@
+POST http://localhost:3000/isliked-by-user
+Content-Type: application/json 
+Header: `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1YmRiMGFiZjNhYjJlZWVmZGJmMWVmMCIsImlhdCI6MTcwODQwMjc5NX0.9RU4kulKN2_HPGCyX2i2710brYvfCHiw1o2Oc8lU2rQ`
+
+{
+    "_id" : "65c86604946531a1df7d430b"
+}
